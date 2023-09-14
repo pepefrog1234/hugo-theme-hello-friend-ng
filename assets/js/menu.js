@@ -1,5 +1,5 @@
 // Mobile menu
-/*
+
 const menuTrigger = document.querySelector(".menu-trigger");
 const menu = document.querySelector(".menu");
 const mobileQuery = getComputedStyle(document.body).getPropertyValue(
@@ -29,4 +29,4 @@ if(logo){
     path = path.replace(language+'/','')
     logo.textContent += path.substring(0,path.indexOf('/'));
   };
-}*/
+}
